@@ -1,4 +1,8 @@
 # zk-verify
+## Auto sent Proofs
+```
+git clone https://github.com/ToanBm/zk-verify.git && cd zk-verify && chmod +x run.sh && ./run.sh
+```
 
 ✅ 1. CÀI ĐẶT MÔI TRƯỜNG
 sudo apt update && sudo apt install -y curl git jq
